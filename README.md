@@ -35,9 +35,8 @@ Por exemplo: Apenas com Python e inteiramente pelo celular já construímos uma 
 
 [![YouTube](https://img.shields.io/badge/Série_YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white&link=https://youtu.be/dyXFa1ymL-M)](https://youtu.be/dyXFa1ymL-M)
 [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white&link=https://play.google.com/store/apps/details?id=com.paradoxo.amadeus)](https://play.google.com/store/apps/details?id=com.paradoxo.amadeus)
-[![GitHub](https://img.shields.io/badge/Amadeus-100000?style=flat-square&logo=github&logoColor=white&link=https://github.com/git-jr/IADoxo)](https://github.com/git-jr/IADoxo)
-[![GitHub](https://img.shields.io/badge/IADoxo-100000?style=flat-square&logo=github&logoColor=white&link=https://github.com/git-jr/Projeto-Amadeus-Assistente-Android)](https://github.com/git-jr/Projeto-Amadeus-Assistente-Android)
-
+[![GitHub](https://img.shields.io/badge/Amadeus-100000?style=flat-square&logo=github&logoColor=white&link=https://github.com/git-jr/Projeto-Amadeus-Assistente-Android)](https://github.com/git-jr/Projeto-Amadeus-Assistente-Android)
+[![GitHub](https://img.shields.io/badge/IADoxo-100000?style=flat-square&logo=github&logoColor=white&link=https://github.com/git-jr/IADoxo)](https://github.com/git-jr/IADoxo)
 
 #### ⚡ Fun fact:
 Já fiz um Tweet de Marte e você também pode fazer:

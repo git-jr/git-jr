@@ -23,8 +23,9 @@ Formado em Análise e Desenvolvimento de Sistemas, apaixonado por Python, IA e o
 
 
 #### 🌱 I’m currently
-- Estudando Kotlin e MVVM
-- Melhorando Inglês 
+- Estudando Android
+- Jetpack Compose
+- Melhorando meu Inglês 
 - Fazendo sucesso
 
 #

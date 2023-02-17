@@ -39,7 +39,7 @@ Por exemplo: Apenas com Python e inteiramente pelo celular já construímos uma 
 [![GitHub](https://img.shields.io/badge/IADoxo-100000?style=flat-square&logo=github&logoColor=white&link=https://github.com/git-jr/IADoxo)](https://github.com/git-jr/IADoxo)
 
 #### ⚡ Fun fact:
-Já fiz um Tweet de Marte e você também pode fazer:
+Já fiz um Tweet de Marte:
 
 <a href="https://twitter.com/Jr_Obom/status/1399719461452664833"><img src="https://github.com/K6pkus/Imgs/blob/main/Tweet%20de%20Marte.png" alt="Tweet de marte" width="300"></a>
 

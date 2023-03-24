@@ -1,10 +1,10 @@
 #### Hello World! Pode me chamar de Junior  😎 
-Formado em Análise e Desenvolvimento de Sistemas, apaixonado por Python, IA e o mundo mobile (especialmente Android)
+Desenvolvedor Android formado em Análise e Desenvolvimento de Sistemas, apaixonado por resolver problemas!
 
 #### 👨‍💻 🛠 Technologies and tools
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
@@ -23,8 +23,9 @@ Formado em Análise e Desenvolvimento de Sistemas, apaixonado por Python, IA e o
 
 
 #### 🌱 I’m currently
-- 📚 Jetpack Compose
+- 👩‍💻 Android
 - 📚 Inglês
+- 🤖 Tirando o ChatGPT do sério todo dia
 - Fazendo sucesso
 
 #
@@ -39,25 +40,6 @@ Por exemplo: Apenas com Python e inteiramente pelo celular já construímos uma 
 [![GitHub](https://img.shields.io/badge/IADoxo-100000?style=flat-square&logo=github&logoColor=white&link=https://github.com/git-jr/IADoxo)](https://github.com/git-jr/IADoxo)
 
 #### ⚡ Fun fact:
-Já fiz um Tweet de Marte:
+Já fiz um tweet de Marte usando Python:
 
 <a href="https://twitter.com/Jr_Obom/status/1399719461452664833"><img src="https://github.com/K6pkus/Imgs/blob/main/Tweet%20de%20Marte.png" alt="Tweet de marte" width="300"></a>
-
-
-
-<!--
-<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />
-
-git-jr/git-jr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -25,7 +25,6 @@ Desenvolvedor Android formado em Análise e Desenvolvimento de Sistemas, apaixon
 #### 🌱 I’m currently
 - 👩‍💻 Android
 - 📚 Inglês
-- 🤖 Tirando o ChatGPT do sério todo dia
 - Fazendo sucesso
 
 #
@@ -38,8 +37,3 @@ Por exemplo: Apenas com Python e inteiramente pelo celular já construímos uma 
 [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white&link=https://play.google.com/store/apps/details?id=com.paradoxo.amadeus)](https://play.google.com/store/apps/details?id=com.paradoxo.amadeus)
 [![GitHub](https://img.shields.io/badge/Amadeus-100000?style=flat-square&logo=github&logoColor=white&link=https://github.com/git-jr/Projeto-Amadeus-Assistente-Android)](https://github.com/git-jr/Projeto-Amadeus-Assistente-Android)
 [![GitHub](https://img.shields.io/badge/IADoxo-100000?style=flat-square&logo=github&logoColor=white&link=https://github.com/git-jr/IADoxo)](https://github.com/git-jr/IADoxo)
-
-#### ⚡ Fun fact:
-Já fiz um tweet de Marte usando Python:
-
-<a href="https://twitter.com/Jr_Obom/status/1399719461452664833"><img src="https://github.com/K6pkus/Imgs/blob/main/Tweet%20de%20Marte.png" alt="Tweet de marte" width="300"></a>

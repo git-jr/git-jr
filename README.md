@@ -1,7 +1,6 @@
-#### Hello World! Pode me chamar de Junior  😎 
+### Hello World! Pode me chamar de Junior
 Desenvolvedor Android formado em Análise e Desenvolvimento de Sistemas, apaixonado por resolver problemas!
 
-#### 👨‍💻 🛠 Technologies and tools
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -13,27 +12,22 @@ Desenvolvedor Android formado em Análise e Desenvolvimento de Sistemas, apaixon
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat-square&logo=android-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+##
 
+#### Tenho um canal no YouTube onde falo sobre conteúdo tech, especialmente Android.
+- Quer ver meu desafio mais recente, recriando o app Threads do Facebook em apenas 20 dias? [Veja esse vídeo][recriando-threads]. Garanto que vai gostar 😎
 
-#### 📫 You can find me in:
+- Feito utilizando Python, Java e Android, o Projeto Amadeus é uma assistente virtual criada ao longo de uma série de vídeos no YouTube. Você pode conferir  [essa jornada aqui][playlist-amadeus].
 
+##
+  
+#### 📫 Onde me encontrar:
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Jr_Obom)](https://twitter.com/Jr_Obom)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/paradoxo10)](https://www.youtube.com/paradoxo10)
 [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white&link=https://play.google.com/store/apps/dev?id=4872041156978653342)](https://play.google.com/store/apps/dev?id=4872041156978653342)
 
 
-#### 🌱 I’m currently
-- 👩‍💻 Android
-- 📚 Inglês
-- Fazendo sucesso
-
-#
-
-Tenho um canal no YouTube dando dicas sobre Android, aonde constumo mostrar as coisas que amo criar e sempre que possível, mostrar como fiz.
-Por exemplo: Apenas com Python e inteiramente pelo celular já construímos uma assistente virtual em uma série de vídeos no YouTube. Esse projeto acabou virando um app e hoje se encontra disponível na Google Play Store, foi uma grande fonte de aprendizado e de entretenimento haha.
 
 
-[![YouTube](https://img.shields.io/badge/Série_YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white&link=https://youtu.be/dyXFa1ymL-M)](https://youtu.be/dyXFa1ymL-M)
-[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white&link=https://play.google.com/store/apps/details?id=com.paradoxo.amadeus)](https://play.google.com/store/apps/details?id=com.paradoxo.amadeus)
-[![GitHub](https://img.shields.io/badge/Amadeus-100000?style=flat-square&logo=github&logoColor=white&link=https://github.com/git-jr/Projeto-Amadeus-Assistente-Android)](https://github.com/git-jr/Projeto-Amadeus-Assistente-Android)
-[![GitHub](https://img.shields.io/badge/IADoxo-100000?style=flat-square&logo=github&logoColor=white&link=https://github.com/git-jr/IADoxo)](https://github.com/git-jr/IADoxo)
+[playlist-amadeus]: https://www.youtube.com/watch?v=av0u1jFcLxM&list=PLgkr0bcGnH6YtPQO1774MBPhJB4tVBk8L&index=50
+[recriando-threads]: https://youtu.be/Kr4Kn0ewnIw
